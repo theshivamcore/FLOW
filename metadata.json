@@ -1,0 +1,6 @@
+{
+  "name": "FLOW",
+  "description": "A premium, modern habit tracking and personal planning app with FLOW AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
